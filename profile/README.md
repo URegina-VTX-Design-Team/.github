@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're the URegina VTX Design Team.
+We're the URegina VTX Design Team. This design team is associated with the Engineers Without Borders Canada University of Regina Chapter.
 
 ## Projects
 * _coming soon!_
